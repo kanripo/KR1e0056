@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 春秋集傳釋義大成
-#+DATE: 2015-09-23 09:39:54
-#+PROPERTY: JUAN 11
+#+DATE: 2015-08-24 22:14:46.077774
+#+PROPERTY: ID KR1e0056
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷十一
 <pb:KR1e0056_WYG_011-1a>¶
 欽定四庫全書¶
 　春秋集傳釋義大成卷十一　元　俞皋　撰¶
@@ -542,4 +544,3 @@
 (書葬注曾子問並有䘮則如之何子曰葬先/輕而後重其奠也其虞也先重而後輕)冬城漆(漆魯/受邾)¶
 (庶其之邑也時左氏/傳城漆書不  告也)¶
 　春秋集傳釋義大成卷十一¶
-

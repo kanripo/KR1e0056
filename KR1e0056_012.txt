@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 春秋集傳釋義大成
-#+DATE: 2015-09-23 09:39:54
-#+PROPERTY: JUAN 12
+#+DATE: 2015-08-24 22:14:46.099162
+#+PROPERTY: ID KR1e0056
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷十二
 <pb:KR1e0056_WYG_012-1a>¶
 欽定四庫全書¶
 　春秋集傳釋義大成卷十二　元　俞皋　撰¶
@@ -524,4 +526,3 @@
 　¶
 　¶
 　春秋集傳釋義大成卷十二¶
-
